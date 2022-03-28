@@ -1,3 +1,5 @@
+# Benchmark generator
+
 open .db file with sqlite.
 
 1. instance_generator.py, python code for synthesize benchmark instances of SCC scheduing problems.
