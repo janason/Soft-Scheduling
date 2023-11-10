@@ -1,3 +1,3 @@
 # Soft-Scheduling
 
-instances for soft scheduling or resilient scheduling
+instances for soft scheduling or resilient scheduling problems
