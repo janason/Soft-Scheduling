@@ -1,2 +1,9 @@
 # statement
-data and code for online steelmaking-continuous casting problem. 
+data and code for online steelmaking-continuous casting scheduling problem (OL-SCCSP).  
+
+open .db file with sqlite.
+
+1. instance_generator.py, python code for synthesizing benchmark instances of SCC scheduing problems.
+2. DySCH_243.db,  benchmark instances for paper "A decomposition-based two-stage online scheduling approach and its integrated system in the hybrid flow shop of steel industry"
+3. my_steel.db, a example.
+4. 7z file is the source code (may out of date)
