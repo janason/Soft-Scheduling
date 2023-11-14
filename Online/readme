@@ -1,7 +1,0 @@
-# Benchmark generator
-
-open .db file with sqlite.
-
-1. instance_generator.py, python code for synthesize benchmark instances of SCC scheduing problems.
-2. DySCH_243.db,  benchmark instances for paper "A decomposition-based two-stage online scheduling approach and its integrated system in the hybrid flow shop of steel industry"
-3. my_steel.db, a example.
